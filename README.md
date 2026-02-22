@@ -1,8 +1,8 @@
-# UCAD: Uncertainty-guided Contour-aware Displacement for semi-supervised medical image segmentation
+# UCAD: Uncertainty-Guided Contour-Aware Displacement for Semi-Supervised Medical Image Segmentation
 by Chengbo Ding, Fenghe Tang, and Shaohua Kevin Zhou.
 
 ## Introduction
-This repo is the official implementation of UCAD: Uncertainty-guided Contour-aware Displacement for semi-supervised medical image segmentation which is accepted to ISBI-2026.
+This repo is the official implementation of _UCAD: Uncertainty-Guided Contour-Aware Displacement for Semi-Supervised Medical Image Segmentation_ which is accepted to ISBI-2026.
 ![framework](./img/fram.jpg)
 
 ## Requirements
