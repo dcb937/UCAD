@@ -11,7 +11,7 @@ This repository is based on PyTorch 2.4.1, CUDA 12.8 and Python 3.8.20. All expe
 ## Usage
 We provide `code` and `model` for ACDC and Synapse dataset.
 
-Data could be got at [ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC) and [Synapse](https://github.com/xmed-lab/DHC).
+Data could be got at [ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC) and [Synapse](https://pan.baidu.com/s/1Tdf0_nvMpCeQT2CcJfDM1g?pwd=6sxx).
 
 **Note:** Please adjust the arguments in these scripts according to specific experimental settings.
 
